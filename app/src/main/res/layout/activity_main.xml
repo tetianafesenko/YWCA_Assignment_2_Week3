@@ -136,7 +136,7 @@
                 android:id="@+id/clear_but"
                 android:text="@string/clear"
                 android:layout_marginEnd="3dp"
-                android:backgroundTint="@color/Aqua"
+                android:backgroundTint="@color/LimeGreen"
                 android:textColor="@color/black"
                 android:textSize="20sp"
                 android:layout_width="wrap_content"
